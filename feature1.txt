@@ -9,3 +9,5 @@ this way merging continously making my feature1_1 branch history a bit large and
 inorder to avoid this we can use rebase to avoid it.
 
 extened master further. lets addd some more and extend it also further.
+
+Lets see a conflict arise next time when i rebase after this commit message
