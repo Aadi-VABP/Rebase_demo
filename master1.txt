@@ -7,5 +7,6 @@ lets extend this master for demo purpose as new feature branch created
 after merging to feature1_1, lets now extend this master further with new commit
 
 rebase done on feature1_1. now lets add some data in master branch to extend it.
-
 rebase done 2nd time. lets extend master now.
+
+extended feature1_1 and now let me create a conflict for next rebase
