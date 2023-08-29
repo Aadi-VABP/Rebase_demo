@@ -2,3 +2,8 @@ lets extend this feature branch further
 
 
 merged master into feature1_1. now extend this feature branch further.
+
+merged master again as some changes added in master branch
+
+this way merging continously making my feature1_1 branch history a bit large and messy.
+inorder to avoid this we can use rebase to avoid it.
